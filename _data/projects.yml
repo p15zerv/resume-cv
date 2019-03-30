@@ -4,4 +4,4 @@
   quote: >
     Project for a course on Multimedia.
   description: | # this will include new lines to allow paragraphs
-    Classic Pacman but in brand a new setting! Boasts new mechanics, including projectile-based weapons and night mode, intended to give the game a spookier atmosphere. Built using the <mark>phaser</mark> HTML5 framework.
+    Classic Pacman but in a brand new setting! Boasts new mechanics, including projectile-based weapons and night mode, intended to give the game a spookier atmosphere. Built using the <mark>phaser</mark> HTML5 framework.
